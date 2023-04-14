@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Long-span Bridge Research Group</title>
-    <link>https://chaolinsong.github.io/academic-page/talk/</link>
-      <atom:link href="https://chaolinsong.github.io/academic-page/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tjlongspanbridge.com/talk/</link>
+      <atom:link href="https://tjlongspanbridge.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chaolinsong.github.io/academic-page/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tjlongspanbridge.com/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://chaolinsong.github.io/academic-page/talk/</link>
+      <link>https://tjlongspanbridge.com/talk/</link>
     </image>
     
     <item>
       <title>Lupu Bridge</title>
-      <link>https://chaolinsong.github.io/academic-page/talk/example/</link>
+      <link>https://tjlongspanbridge.com/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://chaolinsong.github.io/academic-page/talk/example/</guid>
+      <guid>https://tjlongspanbridge.com/talk/example/</guid>
       <description>&lt;p&gt;Lupu Bridge is an arch bridge located in&lt;/p&gt;
 </description>
     </item>

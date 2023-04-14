@@ -2,23 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rucheng Xiao | Long-span Bridge Research Group</title>
-    <link>https://chaolinsong.github.io/academic-page/author/rucheng-xiao/</link>
-      <atom:link href="https://chaolinsong.github.io/academic-page/author/rucheng-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tjlongspanbridge.com/author/rucheng-xiao/</link>
+      <atom:link href="https://tjlongspanbridge.com/author/rucheng-xiao/index.xml" rel="self" type="application/rss+xml" />
     <description>Rucheng Xiao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://chaolinsong.github.io/academic-page/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tjlongspanbridge.com/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
       <title>Rucheng Xiao</title>
-      <link>https://chaolinsong.github.io/academic-page/author/rucheng-xiao/</link>
+      <link>https://tjlongspanbridge.com/author/rucheng-xiao/</link>
     </image>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://chaolinsong.github.io/academic-page/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://chaolinsong.github.io/academic-page/publication/journal-article/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Long-span Bridge Research Group</title>
-    <link>https://chaolinsong.github.io/academic-page/courses/</link>
-      <atom:link href="https://chaolinsong.github.io/academic-page/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tjlongspanbridge.com/courses/</link>
+      <atom:link href="https://tjlongspanbridge.com/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://chaolinsong.github.io/academic-page/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tjlongspanbridge.com/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
       <title>Courses</title>
-      <link>https://chaolinsong.github.io/academic-page/courses/</link>
+      <link>https://tjlongspanbridge.com/courses/</link>
     </image>
     
   </channel>

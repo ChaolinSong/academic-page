@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Long-span Bridge Research Group</title>
-    <link>https://chaolinsong.github.io/academic-page/</link>
-      <atom:link href="https://chaolinsong.github.io/academic-page/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tjlongspanbridge.com/</link>
+      <atom:link href="https://tjlongspanbridge.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Long-span Bridge Research Group</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chaolinsong.github.io/academic-page/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tjlongspanbridge.com/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
       <title>Long-span Bridge Research Group</title>
-      <link>https://chaolinsong.github.io/academic-page/</link>
+      <link>https://tjlongspanbridge.com/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://chaolinsong.github.io/academic-page/courses/example/example1/</link>
+      <link>https://tjlongspanbridge.com/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://chaolinsong.github.io/academic-page/courses/example/example1/</guid>
+      <guid>https://tjlongspanbridge.com/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://chaolinsong.github.io/academic-page/courses/example/example2/</link>
+      <link>https://tjlongspanbridge.com/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://chaolinsong.github.io/academic-page/courses/example/example2/</guid>
+      <guid>https://tjlongspanbridge.com/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Prof. Xiao recently gave a presentation at 16 conference</title>
-      <link>https://chaolinsong.github.io/academic-page/post/news_xiaoconference_archbridge/</link>
+      <link>https://tjlongspanbridge.com/post/news_xiaoconference_archbridge/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://chaolinsong.github.io/academic-page/post/news_xiaoconference_archbridge/</guid>
+      <guid>https://tjlongspanbridge.com/post/news_xiaoconference_archbridge/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Prof. Xiao recently gave a keynote presentation at the 12th arch bridge conference.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest demo&lt;/a&gt; was held in .&lt;/p&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Prof. Xiao recently gave a presentation at 16 conference</title>
-      <link>https://chaolinsong.github.io/academic-page/post/news_xiaosunconference/</link>
+      <link>https://tjlongspanbridge.com/post/news_xiaosunconference/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://chaolinsong.github.io/academic-page/post/news_xiaosunconference/</guid>
+      <guid>https://tjlongspanbridge.com/post/news_xiaosunconference/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Prof. Xiao recently gave a keynote presentation at the 12th arch bridge conference.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest demo&lt;/a&gt; was held in .&lt;/p&gt;
@@ -78,9 +78,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://chaolinsong.github.io/academic-page/slides/example/</link>
+      <link>https://tjlongspanbridge.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaolinsong.github.io/academic-page/slides/example/</guid>
+      <guid>https://tjlongspanbridge.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -212,18 +212,18 @@ Three
     
     <item>
       <title>Lupu Bridge</title>
-      <link>https://chaolinsong.github.io/academic-page/talk/example/</link>
+      <link>https://tjlongspanbridge.com/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://chaolinsong.github.io/academic-page/talk/example/</guid>
+      <guid>https://tjlongspanbridge.com/talk/example/</guid>
       <description>&lt;p&gt;Lupu Bridge is an arch bridge located in&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://chaolinsong.github.io/academic-page/project/internal-project/</link>
+      <link>https://tjlongspanbridge.com/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://chaolinsong.github.io/academic-page/project/internal-project/</guid>
+      <guid>https://tjlongspanbridge.com/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 </description>
@@ -231,9 +231,9 @@ Three
     
     <item>
       <title>An example journal article</title>
-      <link>https://chaolinsong.github.io/academic-page/publication/journal-article/</link>
+      <link>https://tjlongspanbridge.com/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://chaolinsong.github.io/academic-page/publication/journal-article/</guid>
+      <guid>https://tjlongspanbridge.com/publication/journal-article/</guid>
       <description></description>
     </item>
     

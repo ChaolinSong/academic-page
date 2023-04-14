@@ -5,14 +5,14 @@
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{
-    "src": "/academic-page/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/academic-page/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/academic-page/?utm_source=web_app_manifest"
+  "start_url": "/?utm_source=web_app_manifest"
 }
