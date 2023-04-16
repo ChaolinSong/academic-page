@@ -5,7 +5,7 @@
     <link>https://tjlongspanbridge.com/</link>
       <atom:link href="https://tjlongspanbridge.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Long-span Bridge Research Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tjlongspanbridge.com/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
       <title>Long-span Bridge Research Group</title>
@@ -55,24 +55,21 @@
     </item>
     
     <item>
-      <title>Prof. Xiao recently gave a presentation at 16 conference</title>
-      <link>https://tjlongspanbridge.com/post/news_xiaoconference_archbridge/</link>
-      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/post/news_xiaoconference_archbridge/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Prof. Xiao recently gave a keynote presentation at the 12th arch bridge conference.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest demo&lt;/a&gt; was held in .&lt;/p&gt;
+      <title>Album entitled Bridges in China (2013-2023) was published</title>
+      <link>https://tjlongspanbridge.com/post/news_bridgesinchina/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://tjlongspanbridge.com/post/news_bridgesinchina/</guid>
+      <description>&lt;p&gt;To commemorate the 110th birthday of our beloved teacher, Professor Guohao Li, a large photo album entitled Bridges in China (2013-2023) was published to record the remarkable achievements of Chinese bridge engineering in the last 10 years.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Prof. Xiao recently gave a presentation at 16 conference</title>
-      <link>https://tjlongspanbridge.com/post/news_xiaosunconference/</link>
-      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/post/news_xiaosunconference/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Prof. Xiao recently gave a keynote presentation at the 12th arch bridge conference.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest demo&lt;/a&gt; was held in .&lt;/p&gt;
+      <title>Prof. Xiao was invited to give a keynote speech</title>
+      <link>https://tjlongspanbridge.com/post/news_xiaoconference_archbridge/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tjlongspanbridge.com/post/news_xiaoconference_archbridge/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Prof. Xiao was invited to give a keynote speech at the Second World Conference on Long Span Arch Bridge Construction Technology held from March 19 – 21 in Nanning, GuangXi Zhuang Autonomous Region, China.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The presentation was titled &amp;ldquo;Past and Present of Arch Bridges — Also Discussing Innovations of Arch Bridges&amp;rdquo;.  From the Corbel arch over 4000 years ago to the stone arch bridge of the Mycenaean Civilization, from the ancient arch bridge of the Rome period to the Bayonne Bridge, the brilliance of the arch bridge in the past is shown. Then, from several points of view, including the development of bridge span and application of new material, the structural system and key structural member, the construction method, the calculation theory and analysis method, the innovation of the arch bridge after World War II is presented. It is revealed that only innovation can help to achieve longer spans and diverse structural forms of arch bridges. Possible directions for the future development of arch bridges are discussed in the last part.&lt;/p&gt;
 </description>
     </item>
     
@@ -211,15 +208,6 @@ Three
     </item>
     
     <item>
-      <title>Lupu Bridge</title>
-      <link>https://tjlongspanbridge.com/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/talk/example/</guid>
-      <description>&lt;p&gt;Lupu Bridge is an arch bridge located in&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Internal Project</title>
       <link>https://tjlongspanbridge.com/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -235,6 +223,15 @@ Three
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://tjlongspanbridge.com/publication/journal-article/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Yufeng Bridge</title>
+      <link>https://tjlongspanbridge.com/bridge/example/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tjlongspanbridge.com/bridge/example/</guid>
+      <description>&lt;p&gt;Yufeng Bridge completed in 2005, is located in Yushan Town, Kunshan City and crosses the Yehe River. The bridge has a total length of about 330 meters and six lanes in dual direction. Yufeng Bridge is the first long-span leaning-type arch bridge without thrust in China, primarily designed by the Long-span Bridge Research Group of Tongji University. The main bridge of Yufeng Bridge adopts a system of leaning-type arch bridges without thrust and arch beam hinged connection system. The main span is 110 meters, and the widest part of the bridge deck is 60.9 meters with a height of 27 meters.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
