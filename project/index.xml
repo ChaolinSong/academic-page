@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Long-span Bridge Research Group</title>
-    <link>https://tjlongspanbridge.com/project/</link>
-      <atom:link href="https://tjlongspanbridge.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tjlongspanbridge.com/project/</link>
+      <atom:link href="https://www.tjlongspanbridge.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tjlongspanbridge.com/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tjlongspanbridge.com/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://tjlongspanbridge.com/project/</link>
+      <link>https://www.tjlongspanbridge.com/project/</link>
     </image>
     
     <item>
       <title>Shear Failure Mechanism and Bearing Capacity of Pre-stressed Ultra-High Performance Concrete Beams</title>
-      <link>https://tjlongspanbridge.com/project/uhpcshear/</link>
+      <link>https://www.tjlongspanbridge.com/project/uhpcshear/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/project/uhpcshear/</guid>
+      <guid>https://www.tjlongspanbridge.com/project/uhpcshear/</guid>
       <description>&lt;p&gt;Associate Professor Sun Bin completed the National Natural Science Foundation project &amp;ldquo;Study on Shear Failure Mechanism and Bearing Capacity of Pre-stressed Ultra-High Performance Concrete Beams&amp;rdquo; (51878494) from 2019 to 2022. Firstly, the project established the tension and compression constitutive models of UHPC through material performance tests, and then carried out shear tests on 25 large-sized UHPC rectangular beams, mainly focusing on the internal stress characteristics, crack development, failure mode, ultimate deflection, and ultimate bearing capacity of UHPC beams. By controlling eight key factors including shear-span ratio, stirrup ratio, pre-stress force, longitudinal reinforcement ratio, UHPC tensile strength, and steel fiber content, type, and size, the impact of these factors on the shear performance of UHPC beams was studied.&lt;/p&gt;
 &lt;p&gt;Secondly, a refined numerical simulation analysis method for the shear process of UHPC rectangular beams was established, which used the concrete plastic damage model (CDP) to calculate the damage changes in the numerical beam tension and compression, and used the extended finite element method (XFEM) to calculate the generation and development of cracks in the numerical beam. The numerical model can simulate the development of the main crack and the distribution of diffuse cracks in UHPC beams, fully considering the effects of steel fibers and prestressed steel bars, and is in good agreement with experimental phenomena and main data.&lt;/p&gt;
 &lt;p&gt;Furthermore, the shear bearing capacity calculation methods of UHPC-related standards and the shear bearing capacity calculation methods based on the ultimate equilibrium method were analyzed and compared, and the calculation assumptions, models, and shear contribution factors were compared. It was concluded that the ultimate equilibrium method considers all factors and has good calculation accuracy.&lt;/p&gt;

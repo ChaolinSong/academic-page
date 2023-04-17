@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Long-span Bridge Research Group</title>
-    <link>https://tjlongspanbridge.com/</link>
-      <atom:link href="https://tjlongspanbridge.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tjlongspanbridge.com/</link>
+      <atom:link href="https://www.tjlongspanbridge.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Long-span Bridge Research Group</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tjlongspanbridge.com/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tjlongspanbridge.com/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
       <title>Long-span Bridge Research Group</title>
-      <link>https://tjlongspanbridge.com/</link>
+      <link>https://www.tjlongspanbridge.com/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://tjlongspanbridge.com/courses/example/example1/</link>
+      <link>https://www.tjlongspanbridge.com/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://tjlongspanbridge.com/courses/example/example1/</guid>
+      <guid>https://www.tjlongspanbridge.com/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://tjlongspanbridge.com/courses/example/example2/</link>
+      <link>https://www.tjlongspanbridge.com/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://tjlongspanbridge.com/courses/example/example2/</guid>
+      <guid>https://www.tjlongspanbridge.com/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,26 +56,26 @@
     
     <item>
       <title>Album entitled Bridges in China (2013-2023) was published</title>
-      <link>https://tjlongspanbridge.com/post/news_bridgesinchina/</link>
+      <link>https://www.tjlongspanbridge.com/post/news_bridgesinchina/</link>
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/post/news_bridgesinchina/</guid>
+      <guid>https://www.tjlongspanbridge.com/post/news_bridgesinchina/</guid>
       <description>&lt;p&gt;To commemorate the 110th birthday of our beloved teacher, Professor Guohao Li, a large photo album entitled Bridges in China (2013-2023) was published to record the remarkable achievements of Chinese bridge engineering in the last 10 years.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Paper Published: An efficient structural reliability analysis method with active learning Kriging-assisted robust adaptive importance sampling</title>
-      <link>https://tjlongspanbridge.com/publication/2023structures2/</link>
+      <link>https://www.tjlongspanbridge.com/publication/2023structures2/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/publication/2023structures2/</guid>
+      <guid>https://www.tjlongspanbridge.com/publication/2023structures2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prof. Xiao was invited to give a keynote speech</title>
-      <link>https://tjlongspanbridge.com/post/news_xiaoconference_archbridge/</link>
+      <link>https://www.tjlongspanbridge.com/post/news_xiaoconference_archbridge/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/post/news_xiaoconference_archbridge/</guid>
+      <guid>https://www.tjlongspanbridge.com/post/news_xiaoconference_archbridge/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Prof. Xiao was invited to give a keynote speech at the Second World Conference on Long Span Arch Bridge Construction Technology held from March 19 – 21 in Nanning, GuangXi Zhuang Autonomous Region, China.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The presentation was titled &amp;ldquo;Past and Present of Arch Bridges — Also Discussing Innovations of Arch Bridges&amp;rdquo;.  From the Corbel arch over 4000 years ago to the stone arch bridge of the Mycenaean Civilization, from the ancient arch bridge of the Rome period to the Bayonne Bridge, the brilliance of the arch bridge in the past is shown. Then, from several points of view, including the development of bridge span and application of new material, the structural system and key structural member, the construction method, the calculation theory and analysis method, the innovation of the arch bridge after World War II is presented. It is revealed that only innovation can help to achieve longer spans and diverse structural forms of arch bridges. Possible directions for the future development of arch bridges are discussed in the last part.&lt;/p&gt;
 </description>
@@ -83,57 +83,57 @@
     
     <item>
       <title>Paper Published: Cable force optimization of cable-stayed bridges: A surrogate model-assisted differential evolution method combined with B-Spline interpolation curves</title>
-      <link>https://tjlongspanbridge.com/publication/2023es1/</link>
+      <link>https://www.tjlongspanbridge.com/publication/2023es1/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/publication/2023es1/</guid>
+      <guid>https://www.tjlongspanbridge.com/publication/2023es1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper Published: Reliability-assisted determination of partial factors for the design of main cables considering secondary stress effect</title>
-      <link>https://tjlongspanbridge.com/publication/2023structures1/</link>
+      <link>https://www.tjlongspanbridge.com/publication/2023structures1/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/publication/2023structures1/</guid>
+      <guid>https://www.tjlongspanbridge.com/publication/2023structures1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper Published: High-Dimensional Reliability Analysis with Error-Guided Active-Learning Probabilistic Support Vector Machine: Application to Wind-Reliability Analysis of Transmission Towers</title>
-      <link>https://tjlongspanbridge.com/publication/2022jse1/</link>
+      <link>https://www.tjlongspanbridge.com/publication/2022jse1/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/publication/2022jse1/</guid>
+      <guid>https://www.tjlongspanbridge.com/publication/2022jse1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper Published: BUAK-AIS: Efficient Bayesian Updating with Active learning Kriging-based Adaptive Importance Sampling</title>
-      <link>https://tjlongspanbridge.com/publication/2022cmame1/</link>
+      <link>https://www.tjlongspanbridge.com/publication/2022cmame1/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/publication/2022cmame1/</guid>
+      <guid>https://www.tjlongspanbridge.com/publication/2022cmame1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper Published: Value of information analysis in non-stationary stochastic decision environments: A reliability-assisted POMDP approach</title>
-      <link>https://tjlongspanbridge.com/publication/2022ress1/</link>
+      <link>https://www.tjlongspanbridge.com/publication/2022ress1/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/publication/2022ress1/</guid>
+      <guid>https://www.tjlongspanbridge.com/publication/2022ress1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper Published: Improved Method for Shape Finding of Long‑Span Suspension Bridges</title>
-      <link>https://tjlongspanbridge.com/publication/2020ijss1/</link>
+      <link>https://www.tjlongspanbridge.com/publication/2020ijss1/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/publication/2020ijss1/</guid>
+      <guid>https://www.tjlongspanbridge.com/publication/2020ijss1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://tjlongspanbridge.com/slides/example/</link>
+      <link>https://www.tjlongspanbridge.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/slides/example/</guid>
+      <guid>https://www.tjlongspanbridge.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -265,9 +265,9 @@ Three
     
     <item>
       <title>Shear Failure Mechanism and Bearing Capacity of Pre-stressed Ultra-High Performance Concrete Beams</title>
-      <link>https://tjlongspanbridge.com/project/uhpcshear/</link>
+      <link>https://www.tjlongspanbridge.com/project/uhpcshear/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/project/uhpcshear/</guid>
+      <guid>https://www.tjlongspanbridge.com/project/uhpcshear/</guid>
       <description>&lt;p&gt;Associate Professor Sun Bin completed the National Natural Science Foundation project &amp;ldquo;Study on Shear Failure Mechanism and Bearing Capacity of Pre-stressed Ultra-High Performance Concrete Beams&amp;rdquo; (51878494) from 2019 to 2022. Firstly, the project established the tension and compression constitutive models of UHPC through material performance tests, and then carried out shear tests on 25 large-sized UHPC rectangular beams, mainly focusing on the internal stress characteristics, crack development, failure mode, ultimate deflection, and ultimate bearing capacity of UHPC beams. By controlling eight key factors including shear-span ratio, stirrup ratio, pre-stress force, longitudinal reinforcement ratio, UHPC tensile strength, and steel fiber content, type, and size, the impact of these factors on the shear performance of UHPC beams was studied.&lt;/p&gt;
 &lt;p&gt;Secondly, a refined numerical simulation analysis method for the shear process of UHPC rectangular beams was established, which used the concrete plastic damage model (CDP) to calculate the damage changes in the numerical beam tension and compression, and used the extended finite element method (XFEM) to calculate the generation and development of cracks in the numerical beam. The numerical model can simulate the development of the main crack and the distribution of diffuse cracks in UHPC beams, fully considering the effects of steel fibers and prestressed steel bars, and is in good agreement with experimental phenomena and main data.&lt;/p&gt;
 &lt;p&gt;Furthermore, the shear bearing capacity calculation methods of UHPC-related standards and the shear bearing capacity calculation methods based on the ultimate equilibrium method were analyzed and compared, and the calculation assumptions, models, and shear contribution factors were compared. It was concluded that the ultimate equilibrium method considers all factors and has good calculation accuracy.&lt;/p&gt;
@@ -277,17 +277,17 @@ Three
     
     <item>
       <title>Paper Published: Optimization of cable pre-tension forces in long-span cable-stayed bridges considering the counterweight</title>
-      <link>https://tjlongspanbridge.com/publication/2018es1/</link>
+      <link>https://www.tjlongspanbridge.com/publication/2018es1/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/publication/2018es1/</guid>
+      <guid>https://www.tjlongspanbridge.com/publication/2018es1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yufeng Bridge</title>
-      <link>https://tjlongspanbridge.com/bridge/example/</link>
+      <link>https://www.tjlongspanbridge.com/bridge/example/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/bridge/example/</guid>
+      <guid>https://www.tjlongspanbridge.com/bridge/example/</guid>
       <description>&lt;p&gt;Yufeng Bridge completed in 2005, is located in Yushan Town, Kunshan City and crosses the Yehe River. The bridge has a total length of about 330 meters and six lanes in dual direction. Yufeng Bridge is the first long-span leaning-type arch bridge without thrust in China, primarily designed by the Long-span Bridge Research Group of Tongji University. The main bridge of Yufeng Bridge adopts a system of leaning-type arch bridges without thrust and arch beam hinged connection system. The main span is 110 meters, and the widest part of the bridge deck is 60.9 meters with a height of 27 meters.&lt;/p&gt;
 </description>
     </item>
