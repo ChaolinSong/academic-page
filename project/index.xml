@@ -5,7 +5,7 @@
     <link>https://tjlongspanbridge.com/project/</link>
       <atom:link href="https://tjlongspanbridge.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tjlongspanbridge.com/images/icon_hu931b053645d3fd101d8d47d937d82729_22759_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,12 +13,14 @@
     </image>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://tjlongspanbridge.com/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://tjlongspanbridge.com/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+      <title>Shear Failure Mechanism and Bearing Capacity of Pre-stressed Ultra-High Performance Concrete Beams</title>
+      <link>https://tjlongspanbridge.com/project/uhpcshear/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tjlongspanbridge.com/project/uhpcshear/</guid>
+      <description>&lt;p&gt;Associate Professor Sun Bin completed the National Natural Science Foundation project &amp;ldquo;Study on Shear Failure Mechanism and Bearing Capacity of Pre-stressed Ultra-High Performance Concrete Beams&amp;rdquo; (51878494) from 2019 to 2022. Firstly, the project established the tension and compression constitutive models of UHPC through material performance tests, and then carried out shear tests on 25 large-sized UHPC rectangular beams, mainly focusing on the internal stress characteristics, crack development, failure mode, ultimate deflection, and ultimate bearing capacity of UHPC beams. By controlling eight key factors including shear-span ratio, stirrup ratio, pre-stress force, longitudinal reinforcement ratio, UHPC tensile strength, and steel fiber content, type, and size, the impact of these factors on the shear performance of UHPC beams was studied.&lt;/p&gt;
+&lt;p&gt;Secondly, a refined numerical simulation analysis method for the shear process of UHPC rectangular beams was established, which used the concrete plastic damage model (CDP) to calculate the damage changes in the numerical beam tension and compression, and used the extended finite element method (XFEM) to calculate the generation and development of cracks in the numerical beam. The numerical model can simulate the development of the main crack and the distribution of diffuse cracks in UHPC beams, fully considering the effects of steel fibers and prestressed steel bars, and is in good agreement with experimental phenomena and main data.&lt;/p&gt;
+&lt;p&gt;Furthermore, the shear bearing capacity calculation methods of UHPC-related standards and the shear bearing capacity calculation methods based on the ultimate equilibrium method were analyzed and compared, and the calculation assumptions, models, and shear contribution factors were compared. It was concluded that the ultimate equilibrium method considers all factors and has good calculation accuracy.&lt;/p&gt;
+&lt;p&gt;Finally, a set of UHPC beam shear bearing capacity calculation formula was established, which can comprehensively consider the shear contribution of each part of the UHPC beam, fully consider the impact of steel fibers and has certain redundancy, and the calculation results are in good agreement with the experimental data, literature and related test data. The research results have been directly applied to offshore bridge engineering and urban elevated road construction.&lt;/p&gt;
 </description>
     </item>
     
